@@ -1,0 +1,39 @@
+[
+	{
+	"id":  1,
+	"name": "chun-li",
+	"image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Chun-Li_tatsunoko.png"
+}, {
+	"id":  2,
+	"name": "geese-howard",
+	"image": "https://vignette.wikia.nocookie.net/snk/images/5/5d/Geese-kof98um.jpg/revision/latest?cb=20130418023044"
+}, {
+	"id":  3,
+	"name": "heihachi",
+	"image": "http://vignette3.wikia.nocookie.net/deathbattlefanon/images/0/08/Heihachi-Mishima.png/revision/latest?cb=20150211204027"
+}, {
+	"id":  4,
+	"name": "king_tekken",
+	"image": "http://eng.tekkenpedia.com/images/thumb/2/2c/King_TTT2_CG.png/180px-King_TTT2_CG.png"
+}, {
+	"id":  5,
+	"name": "king_kof",
+	"image": "https://www.fightersgeneration.com/np8/char/kof13/win-portraits/KingWinXIII.png"
+}, {
+	"id":  6,
+	"name": "m-bison",
+	"image": "https://img00.deviantart.net/d0c4/i/2016/054/a/8/m_bison_by_stitchking83-d5scni3.png"
+}, {
+	"id":  7,
+	"name": "morrigan",
+	"image": "https://www.fightersgeneration.com/np2/char1/morrigan-tvc1.jpg"
+}, {
+	"id":  8,
+	"name": "servbot",
+	"image": "https://vignette.wikia.nocookie.net/megaman/images/5/58/SvCCFDS-Servbot.png/revision/latest?cb=20151031022514"
+}, {
+	"id":  9,
+	"name": "ryu",
+	"image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/db/RyuRender.png/revision/latest?cb=20161212163919"
+	}
+]

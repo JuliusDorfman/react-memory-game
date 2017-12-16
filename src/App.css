@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.characterChoices img {
+  height: 120px;
+  margin: 3em;
+}
+
+header h5 {
+  margin-top:1.5em;
+  margin-bottom:1px;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.instruction {
+  font-size: .9em;
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.characters{
+}
