@@ -2,38 +2,48 @@
 	{
 	"id":  1,
 	"name": "chun-li",
-	"image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Chun-Li_tatsunoko.png"
+	"image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Chun-Li_tatsunoko.png",
+	"clicked": 0
+
 }, {
 	"id":  2,
 	"name": "geese-howard",
-	"image": "https://vignette.wikia.nocookie.net/snk/images/5/5d/Geese-kof98um.jpg/revision/latest?cb=20130418023044"
+	"image": "https://vignette.wikia.nocookie.net/snk/images/5/5d/Geese-kof98um.jpg/revision/latest?cb=20130418023044",
+	"clicked": 0
 }, {
 	"id":  3,
 	"name": "heihachi",
-	"image": "http://vignette3.wikia.nocookie.net/deathbattlefanon/images/0/08/Heihachi-Mishima.png/revision/latest?cb=20150211204027"
+	"image": "http://vignette3.wikia.nocookie.net/deathbattlefanon/images/0/08/Heihachi-Mishima.png/revision/latest?cb=20150211204027",
+	"clicked": 0
 }, {
 	"id":  4,
 	"name": "king_tekken",
-	"image": "http://eng.tekkenpedia.com/images/thumb/2/2c/King_TTT2_CG.png/180px-King_TTT2_CG.png"
+	"image": "http://eng.tekkenpedia.com/images/thumb/2/2c/King_TTT2_CG.png/180px-King_TTT2_CG.png",
+	"clicked": 0
 }, {
 	"id":  5,
 	"name": "king_kof",
-	"image": "https://www.fightersgeneration.com/np8/char/kof13/win-portraits/KingWinXIII.png"
+	"image": "https://www.fightersgeneration.com/np8/char/kof13/win-portraits/KingWinXIII.png",
+	"clicked": 0
 }, {
 	"id":  6,
 	"name": "m-bison",
-	"image": "https://img00.deviantart.net/d0c4/i/2016/054/a/8/m_bison_by_stitchking83-d5scni3.png"
+	"image": "https://img00.deviantart.net/d0c4/i/2016/054/a/8/m_bison_by_stitchking83-d5scni3.png",
+	"clicked": 0
 }, {
 	"id":  7,
 	"name": "morrigan",
-	"image": "https://www.fightersgeneration.com/np2/char1/morrigan-tvc1.jpg"
+	"image": "https://www.fightersgeneration.com/np2/char1/morrigan-tvc1.jpg",
+	"clicked": 0
 }, {
 	"id":  8,
 	"name": "servbot",
-	"image": "https://vignette.wikia.nocookie.net/megaman/images/5/58/SvCCFDS-Servbot.png/revision/latest?cb=20151031022514"
+	"image": "https://vignette.wikia.nocookie.net/megaman/images/5/58/SvCCFDS-Servbot.png/revision/latest?cb=20151031022514",
+	"clicked": 0
 }, {
 	"id":  9,
 	"name": "ryu",
-	"image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/db/RyuRender.png/revision/latest?cb=20161212163919"
+	"image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/db/RyuRender.png/revision/latest?cb=20161212163919",
+	"clicked": 0
 	}
 ]
